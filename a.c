@@ -2,6 +2,7 @@
 
 int main()
 {
-	cout << "hello world" << endl;
+	//cout << "hello world" << endl;
+	printf("hello world!\n");
 
 }
